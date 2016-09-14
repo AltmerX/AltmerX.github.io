@@ -8,8 +8,8 @@ body {
 body n{
    font-size: 2em
 }
-body img{
-    width:20%;
-}
-
+body img{ 
+    width:90px;
+    height:160px; 
+} 
 
