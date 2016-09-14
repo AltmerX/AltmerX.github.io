@@ -8,5 +8,9 @@ body {
 body n{
    font-size: 2em
 }
+body photo{
+    width:90px;
+    height:160px;
+}
 
 
